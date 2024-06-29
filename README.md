@@ -4,7 +4,7 @@ Machine unlearning is a process of removing the knowledge from a machine learnin
 This project is implemented as a part of the ACM India Summer School 2024 on "Responsible and Safe AI", hosted by IIT Madras and sponsored by Centre for Responsible AI (CeRAI), IIT Madras, from 3rd June to 14th June 2024.
 
 ## Results
-Confusion matrices generated for a trained VGG16 model on CIFAR10 dataset, before and after neuron masking, are shown below respectively:
+Confusion matrices generated for a trained VGG16 model on CIFAR10 dataset, before and after neuron masking (for the `plane` class), are shown below respectively:
 ![Before Neuron Masking](/results/cifar10_vgg16_cf.png)
 ![After Neuron Masking](/results/cifar10_unl_vgg16_cf.png)
 
