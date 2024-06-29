@@ -24,5 +24,5 @@ Confusion matrices generated for a trained VGG16 model on CIFAR10 dataset, befor
 - [Abinash Chetia](https://github.com/AbinashChetia)
 - [Anurag Lengure](https://github.com/anulengure5)
 - [Anushka Nehra](https://github.com/Nehra-cell)
-- Bettina Ninan
+- [Bettina Ninan](https://github.com/Bettina2004)
 - [Tehseen Shaikh](https://github.com/Tehseen-dataenthusiastic)
